@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hong Hae Jang"
+title                    : "HongLab"
 title_separator          : "-"
-subtitle                 : "honglab.tistory.com"# site tagline that appears below site title in masthead
+subtitle                 : ""# site tagline that appears below site title in masthead
 name                     : "Hong Hae Jang"
-description              : "Hello"
+description              : "github pages"
 url                      : "https://suminhong.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "suminhong/cloudformation-yaml"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "suminhong/cloudformation_yaml"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
