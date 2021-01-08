@@ -97,13 +97,13 @@ author:
   name             : "Hong HaeJang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello"
-  location         : ""
+  #location         : ""
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Tistory"
       icon: "fas fa-fw fa-link"
       url: "https://honglab.tistory.com"
     - label: "Twitter"
